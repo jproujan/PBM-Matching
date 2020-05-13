@@ -62,4 +62,8 @@
   <ItemGroup>
     <None Include="Scripts\KPP Matching Logic.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Scripts\CignaClaimMatching.sql" />
+    <Build Include="Scripts\OptumClaimMatching.sql" />
+  </ItemGroup>
 </Project>
